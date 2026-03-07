@@ -1,0 +1,10 @@
+# Workspace & Iteration Data
+*-workspace/
+
+# Environment
+.env
+.DS_Store
+
+# Temporary files
+tmp/
+*.tmp

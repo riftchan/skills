@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "reddit-topic-consensus": {
+      "source": "/Users/vincent.chan/gemini/skills-creator/reddit-topic-consensus",
+      "sourceType": "local",
+      "computedHash": "279b662b1061c2d5f53d8c8a7636dbcdcd51cbe083deaa262b4a3f5ee173afef"
+    }
+  }
+}
