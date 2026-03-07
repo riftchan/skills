@@ -8,3 +8,5 @@
 # Temporary files
 tmp/
 *.tmp
+
+.agents/
