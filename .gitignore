@@ -5,6 +5,10 @@
 .env
 .DS_Store
 
+# Project Memory
+memory.md
+memory-*.md
+
 # Temporary files
 tmp/
 *.tmp
